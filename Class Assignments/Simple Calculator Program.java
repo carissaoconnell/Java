@@ -17,8 +17,8 @@ public class integerIO {
 
       int sum = number1 + number2; // add numbers, then store total in sum
       System.out.println(number1+ "+" +number2+ "=" + sum); // display equation and answer
-	   
-	  int product = number1 * number2; // multiply numbers; store answer in product
+      
+      int product = number1 * number2; // multiply numbers; store answer in product
       System.out.println(number1+ "*" +number2+ "=" + product); // display equation and answer
       
       int difference = number1 - number2; // subtract numbers; store answer in difference
